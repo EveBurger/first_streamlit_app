@@ -2,4 +2,4 @@
 
 snowflake-connector-python
 
--m pip install --upgrade pip
+import snowflake.connector
