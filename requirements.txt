@@ -2,7 +2,4 @@
 
 snowflake-connector-python
 
-
-
-
-/home/appuser/venv/bin/python -m pip install --upgrade pip
+-m pip install --upgrade pip
